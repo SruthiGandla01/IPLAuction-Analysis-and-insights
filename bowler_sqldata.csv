@@ -1,0 +1,169 @@
+bowler_id,player_id,no_of_wickets,type_of_bowler
+1,1,482,"Medium Pace"
+2,3,168,"Medium Pace"
+3,4,295,"Medium Pace"
+4,6,216,Fast
+5,7,90,"Medium Pace"
+6,9,11,Spin
+7,11,416,Fast
+8,12,244,Spin
+9,13,435,"Medium Pace"
+10,14,496,Fast
+11,15,220,Fast
+12,16,163,Fast
+13,18,234,Fast
+14,20,78,Fast
+15,21,407,Spin
+16,25,177,"Medium Pace"
+17,26,277,"Medium Pace"
+18,27,166,Fast
+19,28,380,Spin
+20,29,66,Spin
+21,31,81,Spin
+22,32,471,Fast
+23,34,405,"Medium Pace"
+24,35,288,Spin
+25,36,25,"Medium Pace"
+26,37,75,"Medium Pace"
+27,40,178,Fast
+28,41,415,Fast
+29,42,220,Spin
+30,43,201,Fast
+31,46,355,Spin
+32,47,477,Fast
+33,48,153,Spin
+34,49,121,"Medium Pace"
+35,50,482,Spin
+36,52,251,Spin
+37,53,98,"Medium Pace"
+38,54,378,"Medium Pace"
+39,55,419,Spin
+40,56,111,Fast
+41,57,452,Spin
+42,58,204,Fast
+43,59,282,"Medium Pace"
+44,60,82,Fast
+45,63,499,Spin
+46,64,414,"Medium Pace"
+47,65,260,Spin
+48,66,129,Fast
+49,67,389,"Medium Pace"
+50,69,177,Fast
+51,70,409,Spin
+52,71,247,Spin
+53,72,161,Fast
+54,73,412,Spin
+55,74,73,"Medium Pace"
+56,77,236,Fast
+57,78,233,"Medium Pace"
+58,79,132,"Medium Pace"
+59,80,328,Spin
+60,86,134,"Medium Pace"
+61,89,91,"Medium Pace"
+62,90,39,Fast
+63,91,246,"Medium Pace"
+64,92,428,"Medium Pace"
+65,93,372,Fast
+66,94,210,Spin
+67,96,163,"Medium Pace"
+68,97,65,Fast
+69,98,311,"Medium Pace"
+70,99,80,"Medium Pace"
+71,100,289,"Medium Pace"
+72,102,270,Fast
+73,103,23,Spin
+74,104,27,"Medium Pace"
+75,106,473,Spin
+76,107,98,Spin
+77,108,418,"Medium Pace"
+78,109,336,Spin
+79,110,136,"Medium Pace"
+80,114,208,Fast
+81,116,356,Fast
+82,117,442,Spin
+83,118,467,Spin
+84,120,298,Spin
+85,121,402,Fast
+86,122,220,Fast
+87,126,27,"Medium Pace"
+88,128,56,Fast
+89,129,233,Spin
+90,131,373,Fast
+91,133,495,Spin
+92,134,302,Fast
+93,135,350,"Medium Pace"
+94,136,53,"Medium Pace"
+95,137,142,Fast
+96,138,101,Spin
+97,139,270,"Medium Pace"
+98,140,402,"Medium Pace"
+99,141,265,"Medium Pace"
+100,142,34,Spin
+101,143,61,Spin
+102,144,115,"Medium Pace"
+103,146,404,"Medium Pace"
+104,149,280,Spin
+105,150,434,Fast
+106,151,82,Spin
+107,152,353,Fast
+108,155,205,Spin
+109,156,364,Spin
+110,158,251,"Medium Pace"
+111,159,168,"Medium Pace"
+112,164,133,Fast
+113,165,130,Fast
+114,166,90,Spin
+115,167,448,Spin
+116,171,359,Spin
+117,172,48,"Medium Pace"
+118,175,218,Fast
+119,177,28,Spin
+120,178,420,Fast
+121,182,403,"Medium Pace"
+122,184,483,"Medium Pace"
+123,186,411,"Medium Pace"
+124,188,428,Spin
+125,189,156,Spin
+126,190,443,Spin
+127,192,223,"Medium Pace"
+128,194,278,Fast
+129,195,403,Spin
+130,197,309,"Medium Pace"
+131,198,263,Fast
+132,199,444,Spin
+133,200,95,Fast
+134,201,233,"Medium Pace"
+135,202,20,Fast
+136,203,268,Spin
+137,204,194,Fast
+138,205,36,"Medium Pace"
+139,206,413,Fast
+140,207,474,Spin
+141,208,145,Spin
+142,209,297,Spin
+143,210,394,Fast
+144,211,313,Fast
+145,213,118,Fast
+146,216,428,"Medium Pace"
+147,217,201,Spin
+148,220,262,Fast
+149,221,93,Fast
+150,222,305,Spin
+151,223,242,"Medium Pace"
+152,227,187,Spin
+153,228,152,Spin
+154,229,483,Spin
+155,231,131,Fast
+156,232,267,Fast
+157,234,148,Fast
+158,235,32,Fast
+159,236,174,Spin
+160,238,32,Spin
+161,239,362,Spin
+162,242,238,Fast
+163,243,113,"Medium Pace"
+164,244,357,Spin
+165,245,441,Spin
+166,246,337,Spin
+167,247,411,Fast
+168,249,97,Spin
