@@ -60,7 +60,6 @@ The project uses cleaned and curated data related to:
 ## 🗃️ Project Structure
 
 IPLAuction-Analysis-and-insights/
-│
 ├── DMA_PROJECT.ipynb # Main project notebook (EDA + analysis)
 ├── DMA Application project.ipynb # Additional insights and dashboards
 ├── Project_ipl_SQL queries.sql # SQL queries for data exploration
