@@ -57,16 +57,18 @@ The project uses cleaned and curated data related to:
 
 ---
 
-## 🗃️ Project Structure
+## 📁 Project Structure
+
 
 IPLAuction-Analysis-and-insights/
-├── DMA_PROJECT.ipynb # Main project notebook (EDA + analysis)
-├── DMA Application project.ipynb # Additional insights and dashboards
-├── Project_ipl_SQL queries.sql # SQL queries for data exploration
-├── DMA - Project Report.pdf # PDF report summarizing approach and results
-├── DMA Project ER model.drawio # Entity Relationship model (Draw.io format)
-├── DMA Project UML Model-final.jpg # UML diagram image
-├── *.csv # Cleaned CSV datasets
+├── DMA_PROJECT.ipynb                 # Main project notebook (EDA + analysis)
+├── DMA Application project.ipynb     # Additional insights and dashboards
+├── Project_ipl_SQL queries.sql       # SQL queries for data exploration
+├── DMA - Project Report.pdf          # PDF report summarizing approach and results
+├── DMA Project ER model.drawio       # Entity Relationship model (Draw.io format)
+├── DMA Project UML Model-final.jpg   # UML diagram image
+├── *.csv                             # Cleaned CSV datasets
+
 
 ## ✅ Conclusion
 
