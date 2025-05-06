@@ -11,9 +11,6 @@ This project presents an in-depth analysis of the Indian Premier League (IPL) au
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 - [Conclusion](#conclusion)
 
 ---
