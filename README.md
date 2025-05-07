@@ -1,4 +1,4 @@
-# 🏏 IPL Auction Analysis and Insights
+# 🏏 Ipl-Auction-Analysis-Using-Exploratory-Data-Analysis
 
 This project presents an in-depth analysis of the Indian Premier League (IPL) auction data using a combination of **SQL**, **Python**, and **data visualization tools**. The objective is to derive meaningful insights into team strategies, player value, and overall auction trends.
 
